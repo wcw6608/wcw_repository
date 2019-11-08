@@ -11,4 +11,6 @@ public interface Test01
 	 * ĞŞ¸ÄÓÃ»§
 	 */
 	public void updUser();
+	
+	// 13s321dsf31sd3f132sdf
 }
