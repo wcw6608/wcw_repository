@@ -14,4 +14,7 @@ public interface GitTest01
 	// 王五
 	public void dd();
 	
+	// 王五又提交了代码
+	public void ee();
+	
 }
