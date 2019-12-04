@@ -17,4 +17,7 @@ public interface GitTest01
 	// 王五又提交了代码
 	public void ee();
 	
+	// 完成啦
+	public void ff();
+	
 }
