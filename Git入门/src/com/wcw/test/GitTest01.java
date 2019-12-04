@@ -8,4 +8,7 @@ public interface GitTest01
 	// 李四写的aa代码
 	public void bb();
 	
+	// 李四又写了代码
+	public void cc();
+	
 }
