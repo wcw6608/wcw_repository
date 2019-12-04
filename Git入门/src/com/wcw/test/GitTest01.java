@@ -11,4 +11,7 @@ public interface GitTest01
 	// 李四又写了代码
 	public void cc();
 	
+	// 王五
+	public void dd();
+	
 }
