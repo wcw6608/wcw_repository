@@ -20,7 +20,7 @@ public interface GitTest01
 	// 完成啦
 	public void ff();
 	
-	// 在分支中写的代码
+	// 在分支中写的代码00000000000000
 	public void gg();
 	
 }
