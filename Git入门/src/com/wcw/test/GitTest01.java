@@ -23,4 +23,7 @@ public interface GitTest01
 	// 在分支中写的代码00000000000000
 	public void gg();
 	
+	// 在分支中写的代码	hhhhhhhhhhhhhhhhhhhhhh
+		public void hh();
+	
 }
