@@ -24,6 +24,9 @@ public interface GitTest01
 	public void gg();
 	
 	// 在分支中写的代码	hhhhhhhhhhhhhhhhhhhhhh
-		public void hh();
+	public void hh();
+		
+	// 张三提交前写的代码 
+	public void merge001();
 	
 }
